@@ -9,7 +9,7 @@ gem 'mysql2'
 gem 'therubyracer'
 gem 'debugger'
 gem 'quiet_assets'
-
+gem 'certified'
 
 # Gems used only for assets and not required
 # in production environments by default.
